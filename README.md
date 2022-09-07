@@ -22,3 +22,7 @@ I am interested in the arts. The folklore museum in Kerala is famous for providi
 
 
 
+* Willingdon Island:Willingdon Island is the largest artificial island in India, which forms part of the city of Kochi, in the state of Kerala. 
+* Mattancherry Palace:The Mattancherry Palace is a Portuguese palace popularly known as the Dutch Palace, in Mattancherry, Kochi, in the Indian state of Kerala which features Kerala murals depicting portraits and exhibits of the Rajas of Kochi.
+* Paradesi Synagogue:The Paradesi Synagogue aka Cochin Jewish Synagogue or the Mattancherry Synagogue is a synagogue located in Mattancherry Jew Town, a suburb of the city of Kochi, Kerala, in India.
+* Ernakulam Shiva Temple:Ernakulam Shiva Temple, also known as Ernakulathappan Temple is one of the major temples of Kerala, located in heart of Ernakulam, Kochi, Kerala, India.
