@@ -25,5 +25,37 @@ I love to visit the below places. I would like to recommend this place to others
 
 > “The best kind of praise is intelligent praise.” *Rachel Heffington*
 
+---
+
+## Code Fencing 
+
+> add_rewrite_rule not working with custom post type <https://stackoverflow.com/questions/73642768/add-rewrite-rule-not-working-with-custom-post-type>
+
+```
+<h3>All Post Meta</h3>
+
+<?php 
+
+  // Get all the data 
+  $getPostCustom = get_post_custom(); 
+
+    foreach($getPostCustom as $name=>$value) {
+
+        echo "<strong>" . $name . "</strong>"."  =>  ";
+
+        foreach ($value as $nameAr=>$valueAr) {
+                echo "<br />";
+                echo $nameAr."  =>  ";
+                echo var_dump($valueAr);
+        }
+
+        echo "<br /><br />";
+
+    }
+?>
+```
+
+Link to the code snippet <https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/>
+
 
 
