@@ -17,4 +17,13 @@ I love to visit the below places. I would like to recommend this place to others
 |Rishikesh | Triveni Ghat | 3 days |
 |Mumbai |  Gateway Of India Mumbai | 1 day |
 
+---
+
+## Pithy Quotes 
+
+> “It's always darkest before you're blinded by the light.” *josh stern*
+
+> “The best kind of praise is intelligent praise.” *Rachel Heffington*
+
+
 
