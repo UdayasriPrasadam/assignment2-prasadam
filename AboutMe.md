@@ -2,4 +2,19 @@
 
 I am Udayasri Prasadam from Guntur, Andhra Pradesh, India. I completed my bachelor's at Qis college of engineering and technology in 2022, Ongole. I want to enhance my skills in wedapps through this course. In the future, I want to pursue Ph.D.
 
-Link in the image: ![udaya](udaya image.jpeg)
+Link in the image: ![udaya](udayaimage.jpeg)
+
+---
+
+## Cities
+
+I love to visit the below places. I would like to recommend this place to others to visit. The below table shows the information about the most famous place in those cities.
+
+| City | Location | Time Duration |
+| --- |  ---  |  ---  |
+|Chennai | Queensland Amusement Park | 7 days |
+|Mangaluru | Tannirbhavi Beach | 4 days |
+|Rishikesh | Triveni Ghat | 3 days |
+|Mumbai |  Gateway Of India Mumbai | 1 day |
+
+
